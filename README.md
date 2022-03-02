@@ -1,2 +1,2 @@
 # cv
-My cv old school html
+My old school cv style
